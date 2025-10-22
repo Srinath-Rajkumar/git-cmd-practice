@@ -6,6 +6,7 @@ function App() {
       <p>Git cmd test</p>
       <p>testing conflict here</p>
       <p>new</p>
+      <p>git reabse test</p>
     </>
   );
 }
